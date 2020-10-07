@@ -3,5 +3,5 @@ arch=x86_64
 build_type=Debug
 compiler=gcc
 compiler.libcxx=libstdc++
-compiler.version=10.2.0
+compiler.version=10
 os=Windows
