@@ -2,8 +2,11 @@
 arch=x86_64
 build_type=Release
 compiler=gcc
-compiler.libcxx=libstdc++
+compiler.libcxx=libstdc++20
 compiler.version=10
 os=Windows
 os_build=Windows
 arch_build=x86
+
+[env]
+CMAKE_MAKE_PROGRAM=C:\msys64\mingw64\bin\mingw32-make.exe
