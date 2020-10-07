@@ -5,3 +5,5 @@ compiler=gcc
 compiler.libcxx=libstdc++
 compiler.version=10
 os=Windows
+os_build=Windows
+arch_build=x86
